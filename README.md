@@ -1,4 +1,4 @@
-- Python：3.2
+- Python：3.12.3
 - Pytorch：GPU版本
 - CUDA：支持GPU加速
 - 虚拟环境：dl_env

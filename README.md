@@ -26,3 +26,4 @@ python train.py
 ![混淆矩阵](https://cdn.jsdelivr.net/gh/jfx061219/cv_research_start@main/assets/exp1_confusion.png)
 ## 实验结论
 使用 SimpleCNN 在 CIFAR‑10 数据集进行训练，模型最优验证集准确率达到“86.9%”。训练损失持续下降，验证准确率稳步提升，后期验证指标小幅震荡但整体稳定，没有出现明显过拟合现象，模型收敛效果良好。
+

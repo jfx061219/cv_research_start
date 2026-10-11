@@ -21,8 +21,8 @@ python train.py
 - 优化器：SGD，lr=0.1，momentum=0.9
 - 最大训练轮数：100
 ## 实验截图
-![TensorBoard曲线]([https://github.com/user-attachments/assets/8f4e65dc-07c1-48a2-b008-846829db6513](https://imgchr.com/i/pnU4utS))
-![TensorBoard曲线](https://github.com/user-attachments/assets/01a30862-2b1a-4e9c-9ebb-30dc7d2b2fef)
-![混淆矩阵]([[https://github.com/user-attachments/assets/e35b224e-ca03-4ea7-8e72-eb2877e626b9](https://imgchr.com/i/pnU4QpQ)](https://imgchr.com/i/pnU4Kfg))
+![TensorBoard曲线](https://imgchr.com/i/pnU4utS)
+![TensorBoard曲线](https://imgchr.com/i/pnU4Kfg)
+![混淆矩阵](https://imgchr.com/i/pnU4QpQ)
 使用 SimpleCNN 在 CIFAR‑10 数据集进行训练，模型最优验证集准确率达到“86.9%”。训练损失持续下降，验证准确率稳步提升，后期验证指标小幅震荡但整体稳定，没有出现明显过拟合现象，模型收敛效果良好。
 

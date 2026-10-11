@@ -20,6 +20,7 @@ python train.py
 - Batch size：128
 - 优化器：SGD，lr=0.1，momentum=0.9
 - 最大训练轮数：100
+```
 ## 实验截图
 ![TensorBoard曲线](https://github.com/user-attachments/assets/11136b7f-27f3-479d-a23f-a07d502ba531)
 ![TensorBoard曲线](https://github.com/user-attachments/assets/be9d75a3-ee43-4dab-89e3-85f9bfe2d94b)
